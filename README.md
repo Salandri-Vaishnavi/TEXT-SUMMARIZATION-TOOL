@@ -15,3 +15,5 @@
 *APPLICABLE*: Education, Media, Business, Legal, Healthcare, Research, Content Creation, and etc..
 
 *OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/2d5789d1-b587-4dd4-ace8-a44d1cee95f1)
